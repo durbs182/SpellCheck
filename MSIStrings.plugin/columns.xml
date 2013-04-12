@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Columns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Column>Description</Column>
+  <Column>Value</Column>
+  <Column>DisplayName</Column>
+  <Column>Text</Column>
+  <Column>Message</Column>
+  <Column>Title</Column>
+  <Column>DiskPrompt</Column>
+</Columns>
