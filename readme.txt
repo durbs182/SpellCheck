@@ -60,6 +60,4 @@ Plugin file name must be <name>.plugin.dll. The assembly must have a strong name
 
 Just reference SpellCheck.Common in your solution and look in the SpellCheck.Common & SpellCheck.Common.Utility namespaces.
 
-Source for this utility is @ devsrc2:2555 //CH_Automation/SpellCheck/
-
 
